@@ -1,5 +1,5 @@
 {
-    "name": "ionic2AutoComplete",
+    "name": "ionic2-auto-complete",
     "version": "1.5.1",
     "scripts": {
         "build": "gulp build",
